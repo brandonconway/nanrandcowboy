@@ -1,23 +1,23 @@
+/* Note: images are not checked into repo */
+
 var PROJECTS = {
     "sites": [
-         {"title": "Banana",
-	  "content": "This site is rad", 
-	  "img": "../static/img/banana.jpg",
-	  "url": "http://google.com" 
+         {"title": "NaN Rand() Cowboy",
+	  "img": "../static/img/nanrand.jpg",
+	  "content": "This portfolio site. A simple static site based on Bootstrap", 
+	  "url": "http://nanrandcowboy.com", 
+	  "category": "Personal" 
          },
-         {"title": "A different site",
-	  "content": "This site is also rad",
-	  "url": "This site is rad" 
+         {"title": "Alma Freer",
+	  "img": "../static/img/almafreer.jpg",
+	  "content": "A one page static site for one of my bands.",
+	  "url": "http://almafreer.com", 
+	  "category": "Personal" 
          },
-         {"title": "A cool site",
-	  "content": "This site is also rad",
-	  "url": "This site is rad" 
-         }
     ],
 
     "games": [
-          {"title": "Thingy"
-          },
+          {"title": "Thingy"},
           {}
     ]
 };
