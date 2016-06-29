@@ -1,4 +1,4 @@
 Nan Rand() Cowboy
 
-Portfolio site.
+Portfolio site. In progress.
 Simple static site based on Bootstrap.
