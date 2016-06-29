@@ -15,9 +15,21 @@ var PROJECTS = {
 	  "url": "http://nanrandcowboy.com", 
 	  "category": "PSU" 
          },
+         {"title": "AlienMan",
+	  "img": "../static/img/alienman.jpg",
+	  "content": "My first Phaser.js game based on a character designed by my sons. They have a large backlog of feature requests ;)",
+	  "url": "http://brandonconway.github.io/alienman/", 
+	  "category": "Personal" 
+         },
+         {"title": "Drupal Blasters",
+	  "img": "../static/img/drupal_blaster.jpg",
+	  "content": "My first html5/canvas video game. Built quickly in response to frustration with a certain CMS.",
+	  "url": "http://brandonconway.github.io/drupal-blasters/", 
+	  "category": "Personal" 
+         },
          {"title": "NaN Rand() Cowboy",
 	  "img": "../static/img/nanrand.jpg",
-	  "content": "This portfolio site. A simple static site based on Bootstrap", 
+	  "content": "This portfolio site. A simple static site based on Bootstrap. A work-in-progress.", 
 	  "url": "http://nanrandcowboy.com", 
 	  "category": "Personal" 
          },
