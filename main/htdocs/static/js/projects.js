@@ -6,13 +6,13 @@ var PROJECTS = {
 	  "img": "../static/img/trec.jpg",
 	  "content": "A rather involved Drupal multi site which features several custom modules including \
 		one which reads data  from a subset of a spearpate research project database", 
-	  "url": "http://nanrandcowboy.com", 
+	  "url": "http://trec.pdx.edu", 
 	  "category": "PSU" 
          },
 	 {"title": "Oregon Registry Online",
 	  "img": "../static/img/oro.jpg",
 	  "content": "A large set of applications dedicated to tracking preofessional development in the chilcare field", 
-	  "url": "http://nanrandcowboy.com", 
+	  "url": "https://calendar.oregonregistryonline.org", 
 	  "category": "PSU" 
          },
          {"title": "AlienMan",
@@ -36,7 +36,7 @@ var PROJECTS = {
          {"title": "Alma Freer",
 	  "img": "../static/img/almafreer.jpg",
 	  "content": "A one page static site for one of my bands.",
-	  "url": "http://almafreer.com", 
+	  "url": "", 
 	  "category": "Personal" 
          },
     ],
